@@ -1,2 +1,3 @@
 karthik=74/80
 keerthan=90/93
+aditya=98/98
